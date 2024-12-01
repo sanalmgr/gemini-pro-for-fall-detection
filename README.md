@@ -5,7 +5,8 @@
 ## Introduction
 This notebook investigates the use of **Gemini 1.5-pro**, a state-of-the-art generative AI model, for handling complex fall detection tasks in time-series data. Fall detection is a critical problem in healthcare and safety, involving intricate patterns in accelerometer data. By leveraging Gemini 1.5's long context handling capabilities, we explore both **zero-shot** and **few-shot prompting** to classify falls effectively.
 
-## About This Notebook
+## About Notebook (fd_gemini.ipynb)
+[Link](https://github.com/sanalmgr/gemini-pro-for-fall-detection/blob/main/fd_gemini.ipynb)
 This notebook was designed to systematically evaluate the performance of Gemini 1.5 on a real-world time-series dataset, **SmartFall 2018**. The dataset contains accelerometer readings across 50 timesteps for each sample, labeled as either a "fall" or "no fall." The notebook uses a subset of the data to fit within the model's token limit.
 
 ### Key Features of This Notebook
