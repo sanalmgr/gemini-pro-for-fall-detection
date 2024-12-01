@@ -37,7 +37,7 @@ This notebook was designed to systematically evaluate the performance of Gemini 
 4. Explore the insights from zero-shot and few-shot classification.
 
 ## Acknowledgments
-- Dataset: [SmartFall 2018]([https://example-dataset-link.com](https://userweb.cs.txstate.edu/~hn12/data/SmartFallDataSet/)) | [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6210545/)
+- Dataset: [SmartFall 2018](https://userweb.cs.txstate.edu/~hn12/data/SmartFallDataSet/) | [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6210545/)
 - Model: Gemini 1.5-pro from Google Generative AI  
 
 Feel free to explore, tweak, and share feedback!
