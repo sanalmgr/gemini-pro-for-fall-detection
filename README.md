@@ -1,5 +1,7 @@
 # Evaluating Gemini 1.5: Tackling Complex Time-Series Fall Detection with Long Contexts
 
+[Youtube Video Link]
+
 ## Introduction
 This notebook investigates the use of **Gemini 1.5-pro**, a state-of-the-art generative AI model, for handling complex fall detection tasks in time-series data. Fall detection is a critical problem in healthcare and safety, involving intricate patterns in accelerometer data. By leveraging Gemini 1.5's long context handling capabilities, we explore both **zero-shot** and **few-shot prompting** to classify falls effectively.
 
